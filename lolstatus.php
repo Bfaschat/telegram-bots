@@ -1,4 +1,9 @@
 <?php 
+
+/* 
+LOL STATUS BOT : Telegram bot running at @lolstatusbot.
+*/
+
 define('BOT_TOKEN', '123');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 	
